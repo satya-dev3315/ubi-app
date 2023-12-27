@@ -1,6 +1,6 @@
 pr by satya develop
 pr conflict resolved
-<<<<<<< Updated upstream
+
 completed issue 2
 
 
